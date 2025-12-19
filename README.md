@@ -69,7 +69,7 @@ Evaluate portfolio profitability, realized P&L, and win rates for performance as
 ### 4️⃣ Final Executive Dashboard
 Combine market, trading, and portfolio insights into a single interactive executive view.
  
-![Final Executive Dashboard Preview](StockMarketMainDashboard.png)
+![Final Executive Dashboard Preview](MainDashboard.png)
 
 ---
 
