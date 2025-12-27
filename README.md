@@ -54,22 +54,22 @@ Design a professional, management-ready dashboard that:
 ### 1️⃣ Market Analysis Dashboard
 Monitor market trends, volatility, and daily returns for data-driven insights.
  
-![Market Analysis Preview](MarketAnalysis.png)
+![Market Analysis Preview](MarketAnalysisDashboard.png)
 
 ### 2️⃣ Trading Activity Dashboard
 Analyze trader and portfolio activity to track buy/sell behavior and trading efficiency.
 
-![Trading Activity Preview](TradingAnalysis.png)
+![Trading Activity Preview](TradingActivityDashboard.png)
 
 ### 3️⃣ Portfolio Performance & P&L Dashboard
 Evaluate portfolio profitability, realized P&L, and win rates for performance assessment.
  
-![Portfolio Performance Preview](PortfolioAnalysis.png)
+![Portfolio Performance Preview](PortfolioPerformanceDashboard.png)
 
 ### 4️⃣ Final Executive Dashboard
 Combine market, trading, and portfolio insights into a single interactive executive view.
  
-![Final Executive Dashboard Preview](MainDashboard.png)
+![Final Executive Dashboard Preview](FinalExecutiveDashboard.png)
 
 ---
 
